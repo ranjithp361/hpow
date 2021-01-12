@@ -20,12 +20,12 @@ datasheet = gc.open(config.spreadsheet).worksheet("datasheet")
 
 # Get question and options from current index
 
-pasad_date = datasheet.cell(1, 1).value
-pasad_count = datasheet.cell(1, 2).value
+prasad_date = datasheet.cell(1, 1).value
+prasad_count = datasheet.cell(1, 2).value
 
 if prasad_date == "":
 	print("No questions found in the Google sheet!")
-		exit(1)
+	exit(1)
 else
 print("date:" prasad_date)
 print("count:" prasad_count)
