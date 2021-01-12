@@ -23,13 +23,13 @@ datasheet = gc.open(config.spreadsheet).worksheet("datasheet")
 for x in range(2, 50):
   print(x) 
 
-    if datasheet.cell(x, 1).value > "":
-        prasad_date = datasheet.cell(x, 1).value 
-        prasad_count = datasheet.cell(x, 2).value 
+if datasheet.cell(x, 1).value > "":
+    prasad_date = datasheet.cell(x, 1).value 
+    prasad_count = datasheet.cell(x, 2).value 
 
 # if prasad_date == "":
 #	print("No questions found in the Google sheet!")
 #	exit(1)
 # else
-        print("date:", prasad_date) 
-        print("count:", prasad_count)
+    print("date:", prasad_date) 
+    print("count:", prasad_count)
