@@ -21,7 +21,7 @@ datasheet = gc.open(config.spreadsheet).worksheet("datasheet")
 # Get question and options from current index
 
 for x in range(2, 50):
-  print(x) 
+#  print(x) 
 
   if datasheet.cell(x, 1).value > "":
      prasad_date = datasheet.cell(x, 1).value 
