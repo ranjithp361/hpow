@@ -3,7 +3,7 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import requests
 import config
-import reset
+#import reset
 
 # Authorize Google Sheets
 try:
