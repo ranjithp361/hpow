@@ -3,7 +3,7 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import requests
 import config
-#import reset
+# import reset
 
 # Authorize Google Sheets
 try:
@@ -23,9 +23,9 @@ datasheet = gc.open(config.spreadsheet).worksheet("datasheet")
 prasad_date = datasheet.cell(1, 1).value
 prasad_count = datasheet.cell(1, 2).value
 
-#if prasad_date == "":
+# if prasad_date == "":
 #	print("No questions found in the Google sheet!")
 #	exit(1)
-#else
-#print("date:" prasad_date)
-#print("count:" prasad_count)
+# else
+# print("date:" prasad_date)
+# print("count:" prasad_count)
