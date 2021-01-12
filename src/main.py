@@ -27,5 +27,5 @@ prasad_count = datasheet.cell(1, 2).value
 #	print("No questions found in the Google sheet!")
 #	exit(1)
 # else
-# print("date:" prasad_date)
+print(prasad_date)
 # print("count:" prasad_count)
