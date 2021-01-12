@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "annadaanamdashboard",
+  "private_key_id": "c61a1e94c1c4f4e81f8460a6e84d2833fffe9f74",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCK0BrQe9ESjzCN\n0pdqRVeyQIrWJcdskjxnCcotfA1LQAxrlG1UUdiQVXqn95UwwBsdWDet2GOB3pnJ\nEOHV8aEPUmoMG70eRk/hqoBuvvo5Fdr7kuYinpsdD9r0MkOZjWfa03H0TBTPQz0Y\n1e1cYNOAdeZMgovj3o7k7nAyqRrcNo9cPkpnOVijLLZzqeOdm4Sw2mPkGPYvLlWA\nx/1Hmlaxn6KQBq/8Q82xpzre3Uwwi12G1/o0YAxE5prBSWzagQGb1g6IciMlip8L\n10JsSBpE+bR08sz6AVuI2YIWabOCoJBZ178tYLCbwMSS9iNYrQluOafQgRHN07eX\n7Yt2Vh/rAgMBAAECggEAGZljOIt89QU/GQh7L/f1wkOw1ulEq7sUNJRTmqvD79qx\n760BtIkbfRKmeg9ojgL/fRvluMOtJigdCD16yG+1GhRCxlTfPZQN6zn8UXAayShE\nqBxhIIVLacKgyGP0n366ZlqUK09UjxyBSfE5ws2Ac7JKdFWm4rEKfSGTw2P4Nh/8\nLKvG6hOqOgqSwzCDowljusCXSQpflcPD0uF5Hf29m51YdvPEpFOm2BnopYXMGgdV\nBRpnU8WFYIxtEd/n7oU7aKK1wTqcgkg2otNVRlhZuP6vNs5/+Wsifr36GIz8yA9s\nOHHWf6HE+wr5AFcHHdXpOqKZsLQGMNY2MCEdiOFxUQKBgQC82/db6yjWt5THd6/N\nbkhbFE5qIvX0Z8hW1dE+g7etfNoJf8y53n7WnVAte8SlsyQwniyzZhLT5WSG/Ino\nHZkgN2uMGArJKjQ51BoYgUGG4B1m/GTVMhaCAIEOeXrhPWvkP71z61TC50k92rKx\nuQsJYbsuBp7uApjnNVBrdNwZjwKBgQC8KW8O5T1dEhWma9+B7HRGNB1zFw5nvm5k\nMstzPkEN6rN2/0a4pT2BcUTHKULk78uYlihzSIshdAQY+Qu7193MrfSwiAjYVPZh\nmEj1sPQwUhXI7XuQ1yUEHC6/pL9DBMRnegLulC7SniR+Y4llkvyidQy5WROZ12v5\nzx7OM+kN5QKBgDij48iuez4CKt2zuIbs50hhi67rM0aMhZn9YFbWXBTs19t3d6fa\n4cFtxqkNcImdc2IdXhyjpUvlhUOyo414qv7tgBSw9TMltCoPwY/N3CAeQNMtKPSD\npBpzGkGED2VT7XKz5xbH4lDd2qpxV5xTecrjg6anF60cHE1jQO4pSwVjAoGAZU/N\n63BE7RLqs1PL4XHGXXJ8FNbqO7POTocHAoMXlf20KbNjidH23vZ0+ONfkFMJBZx8\nJS5/M0D7X9LgnYCqfSWA5XgpgwmkK4JKbneb01SvRCOSb7dXx/HAvhFfph8v/SM1\n5u3ElETwE1lWxmkxO+vYMQgkRKY4DiaWSKKsrn0CgYAqBUC3WocnLMyeJOsz4+N1\nRV+yZ4ECVO+3OzHohC1i40Avjbj2e/2MeyhLf4zVVAyxvP35LA0fbV6CTa2LXnYB\n92qXKmaQ1xPvOW06XXC2Yn/qZLre9ElRko2lwqvb+VEPGK5nANtsMRy7I9TDYgLg\nEvR5+D3Imc+CT6YbP7PtWw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "annadanamdashboard@annadaanamdashboard.iam.gserviceaccount.com",
+  "client_id": "112212461114868874745",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/annadanamdashboard%40annadaanamdashboard.iam.gserviceaccount.com"
+}
